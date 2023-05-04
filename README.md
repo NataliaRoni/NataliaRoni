@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full stack development student at Henry. I'm passionate about frontend and currently working on a Rick and Morty application that combines my front-end and back-end knowledge. I have experience using JavaScript, React, Node.js, Express, and Redux. I love working on challenging projects and learning new things. I'm always looking for ways to improve my skills and contribute to exciting projects.
+Full stack development student at Henry. I'm passionate about frontend and currently working on a Rick and Morty application that combines my front-end and back-end knowledge. I have experience using JavaScript, CSS, React, Redux, Node.js and Express. I love working on challenging projects and learning new things. I'm always looking for ways to improve my skills and contribute to exciting projects.
 
 
 ## 🌐 Socials:
