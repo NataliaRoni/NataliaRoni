@@ -2,7 +2,7 @@
 Full stack development student at Henry. I'm passionate about frontend and currently working on a Rick and Morty application that combines my front-end and back-end knowledge. I have experience using JavaScript, CSS, React, Redux, Node.js and Express. I love working on challenging projects and learning new things. I'm always looking for ways to improve my skills and contribute to exciting projects.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ natalia-sofia-rodriguez) 
 
 # 💻 Tech Stack:
