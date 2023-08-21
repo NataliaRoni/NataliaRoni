@@ -1,4 +1,6 @@
-# 💫 About Me:
+![github](https://github.com/NataliaRoni/NataliaRoni/assets/106890696/9eb2b021-14bb-4026-890f-68b2164ddbd3)
+
+## 💫 About Me:
 Hi! 👋 I am a Full Stack Developer graduated from Henry, the leading programming academy in Latin America. My background as an International Business Administration graduate from the University of La Sabana uniquely blends with my passion for front-end development. ✨ 
 
 💻 My expertise encompasses the creation of fully functional and appealing web pages using technologies like HTML, JavaScript, CSS, React, Redux, Node.js, Express, and PostgreSQL. 
@@ -10,7 +12,7 @@ Hi! 👋 I am a Full Stack Developer graduated from Henry, the leading programmi
 🚀 If you're seeking a professional who seamlessly blends technical skills with passion and curiosity, feel free to reach out to me! You can connect with me via email at **nataliasofiaroni@gmail.com** and explore my projects in my portfolio: **nataliaroni.netlify.app** 😊
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ### 🎨 Front-End
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
