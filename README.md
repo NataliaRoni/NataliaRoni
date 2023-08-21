@@ -37,11 +37,13 @@ Hi! 👋 I am a Full Stack Developer graduated from Henry, the leading programmi
 **🌟 Rick and Morty App (Integrative Project Henry)**<br><br>
 <a href="https://rick-and-morty-front-theta.vercel.app/" target="_blank"><img src="images/rickandmorty.png" alt="Rick and Morty App" width="362"></a>
 
-
 ## 🌐 Contact me:
-![source](https://github.com/NataliaRoni/NataliaRoni/assets/106890696/9e35d461-e480-4807-a58f-99ded068835f)
-
-📧 **Email:** nataliasofiaroni@gmail.com
-📂 **Portfolio:** https://nataliaroni.netlify.app/ <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-sofia-rodriguez/) <br>
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25B2D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+573028498759)
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/NataliaRoni/NataliaRoni/assets/106890696/9e35d461-e480-4807-a58f-99ded068835f" alt="source" width="100" style="margin-right: 20px;">
+  <div>
+    📧 **Email:** nataliasofiaroni@gmail.com <br>
+    📂 **Portfolio:** https://nataliaroni.netlify.app/ <br>
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-sofia-rodriguez/) <br>
+    [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25B2D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+573028498759)
+  </div>
+</div>
