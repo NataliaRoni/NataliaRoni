@@ -28,20 +28,17 @@ Hi! 👋 I am a Full Stack Developer graduated from Henry, the leading programmi
 
 
 ## 📌 Projects:
-**🌟 El Festín Online (Final Project Henry)**<br><br>
-<a href="https://pf-front-end-grupo3.vercel.app/" target="_blank"><img src="Proyectos/Festin.JPG" alt="Proyecto 1" width="362"></a> <br><br>
-**🌟 Aplicación Pokemón (Proyecto individual Henry)**<br><br>
-<a href="https://client-pokemon-wheat.vercel.app/" target="_blank"><img src="Proyectos/pokemon.JPG" alt="Proyecto 2" width="362"></a><br><br>
-**🌟 Aplicación Pokemón (Proyecto integrador Henry)**<br><br>
-<a href="https://youtu.be/eHMMRxW_rI4" target="_blank"><img src="Proyectos/Rick.JPG" alt="Proyecto 3" width="362"></a>
+**🌟 El Festin Online (Final Project Henry)**<br><br>
+<a href="https://pf-front-end-grupo3.vercel.app/" target="_blank"><img src="images/festinonline.png" alt="El Festin" width="362"></a> <br><br>
+**🌟 Recipes App (Individual Project Henry)**<br><br>
+<a href="https://pi-front-natalia.vercel.app/" target="_blank"><img src="images/nataliarecipes.png" alt="Recipes App" width="362"></a><br><br>
+**🌟 Rick and Morty App (Integrative Project Henry)**<br><br>
+<a href="https://rick-and-morty-front-theta.vercel.app/" target="_blank"><img src="images/rickandmorty.png" alt="Rick and Morty App" width="362"></a>
 
 
+## 🌐 Contact me:
 
-
-
-## 🌐 Contacto:
-
-📧 Correo: fabiandmz13@gmail.com<br><br>
-📂 Portafolio: https://fabiandom-portfolio.vercel.app/<br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fabian-dominguez-34840b212/)<br><br>
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25B2D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+573133154005)
+📧 **Email:** nataliasofiaroni@gmail.com
+📂 **Portfolio:** https://nataliaroni.netlify.app/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-sofia-rodriguez/)<br>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25B2D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+573028498759)
