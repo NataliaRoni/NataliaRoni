@@ -38,7 +38,7 @@ Hi! 👋 I am a Full Stack Developer graduated from Henry, the leading programmi
 <a href="https://rick-and-morty-front-theta.vercel.app/" target="_blank"><img src="images/rickandmorty.png" alt="Rick and Morty App" width="362"></a>
 
 ## 🌐 Contact me:
-  <img src="https://github.com/NataliaRoni/NataliaRoni/assets/106890696/9e35d461-e480-4807-a58f-99ded068835f" alt="source" width="200">
+  <img src="https://github.com/NataliaRoni/NataliaRoni/assets/106890696/9e35d461-e480-4807-a58f-99ded068835f" alt="source" width="150">
   
 📧 **Email:** nataliasofiaroni@gmail.com    📂 **Portfolio:** https://nataliaroni.netlify.app/ 
 
