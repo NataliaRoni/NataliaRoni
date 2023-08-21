@@ -40,7 +40,8 @@ Hi! 👋 I am a Full Stack Developer graduated from Henry, the leading programmi
 
 ## 🌐 Contact me:
 
+![bongo-cat-typing](https://github.com/NataliaRoni/NataliaRoni/assets/106890696/852fc8eb-8c00-4d0a-a9aa-bd90f3af329b)
 📧 **Email:** nataliasofiaroni@gmail.com
-📂 **Portfolio:** https://nataliaroni.netlify.app/
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-sofia-rodriguez/)<br>
+📂 **Portfolio:** https://nataliaroni.netlify.app/ <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-sofia-rodriguez/) <br>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25B2D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+573028498759)
