@@ -1,15 +1,15 @@
 ![github](https://github.com/NataliaRoni/NataliaRoni/assets/106890696/9eb2b021-14bb-4026-890f-68b2164ddbd3)
 
 ## 💫 About Me:
-Hi! 👋 I am a Full Stack Developer graduated from Henry, the leading programming academy in Latin America. My background as an International Business Administration graduate from the University of La Sabana uniquely blends with my passion for front-end development. ✨ 
+Hello! I am a Frontend Developer, Computer Science Engineering student, and International Business Administrator. My education and experience complement each other, making me an expert in the field of web development, allowing me to have an integrated vision of both business and the creation and maintenance of web pages.
 
-💻 My expertise encompasses the creation of fully functional and appealing web pages using technologies like HTML, JavaScript, CSS, React, Redux, Node.js, Express, and PostgreSQL. 
+Currently, I work as a Frontend Developer at Global DigiOps, a company dedicated to providing developer services to international businesses. In my role, I create and support web pages for casinos in North America and Australia. Additionally, I have autonomously created fully functional and attractive web pages using technologies such as HTML, JavaScript, CSS, React, Redux, Node.js, Express, and PostgreSQL.
 
-🌐 In addition to my technical skills, I stand out with my advanced level of English and intermediate proficiency in Portuguese, enabling me to communicate fluently with clients and collaborators worldwide. 
+In addition to my technical skills, I excel in advanced English and intermediate Portuguese, which enables me to communicate fluently with clients and collaborators worldwide.
 
-🙋‍♀️ The constant pursuit of learning is something that defines me. Furthermore, my level of commitment is a trait I not only carry with me but also infuse into every project I undertake. 
+The constant pursuit of learning is something that characterizes me, and my level of commitment is a quality that I not only carry with me but also enhance in every project I dedicate myself to.
 
-🚀 If you're seeking a professional who seamlessly blends technical skills with passion and curiosity, feel free to reach out to me! You can connect with me via email at **nataliasofiaroni@gmail.com** and explore my projects in my portfolio: **nataliaroni.netlify.app** 😊
+You can connect with me via email at **nataliasofiaroni@gmail.com** and explore my projects in my portfolio: **nataliaroni.netlify.app** 🚀 
 
 
 ## 💻 Tech Stack:
