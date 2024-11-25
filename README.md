@@ -3,7 +3,7 @@
 ## 💫 About Me:
 Hello! I am a Frontend Developer, Computer Science Engineering student, and International Business Administrator. My education and experience complement each other, making me an expert in the field of web development, allowing me to have an integrated vision of both business and the creation and maintenance of web pages.
 
-Currently, I work as a Frontend Developer at Global DigiOps, a company dedicated to providing developer services to international businesses. In my role, I create and support web pages for casinos in North America and Australia. Additionally, I have autonomously created fully functional and attractive web pages using technologies such as HTML, JavaScript, CSS, React, Redux, Node.js, Express, and PostgreSQL.
+Currently, I work as a Frontend Developer at Global DigiOps, a company dedicated to providing developer services to international businesses. Additionally, I have autonomously created fully functional and attractive web pages using technologies such as HTML, JavaScript, CSS, React, Redux, Node.js, Express, and PostgreSQL.
 
 In addition to my technical skills, I excel in advanced English and intermediate Portuguese, which enables me to communicate fluently with clients and collaborators worldwide.
 
@@ -27,15 +27,6 @@ You can connect with me via email at **nataliasofiaroni@gmail.com** and explore 
 ### 📊 Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-%231572B6.svg?style=for-the-badge&logo=sequelize&logoColor=white)
-
-
-## 📌 Projects:
-**🌟 El Festin Online (Final Project Henry)**<br><br>
-<a href="https://pf-front-end-grupo3.vercel.app/" target="_blank"><img src="images/festinonline.png" alt="El Festin" width="362"></a> <br><br>
-**🌟 Recipes App (Individual Project Henry)**<br><br>
-<a href="https://pi-front-natalia.vercel.app/" target="_blank"><img src="images/nataliarecipes.png" alt="Recipes App" width="362"></a><br><br>
-**🌟 Rick and Morty App (Integrative Project Henry)**<br><br>
-<a href="https://rick-and-morty-front-theta.vercel.app/" target="_blank"><img src="images/rickandmorty.png" alt="Rick and Morty App" width="362"></a>
 
 ## 🌐 Contact me:
   <img src="https://github.com/NataliaRoni/NataliaRoni/assets/106890696/9e35d461-e480-4807-a58f-99ded068835f" alt="source" width="150">
